@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/0c9c4a9c030f3ae467d0a.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN+ANITA-+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+20%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Thomas+Shelby;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
@@ -14,11 +14,11 @@
 
    1. - 🎭 `Star` 🌟 this repository.
 - If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
+2.  - [FORK](https://github.com/techgod143/Thomas_Shelby-Bugbot/fork) this repository.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
-5.  - Now watch this tutorial [Video](https://youtu.be/hjjzFlZmRqk) for `Deploy Bot`
+
 
 
 
@@ -45,9 +45,9 @@
    [`More hacks & tutorials`](youtube.com/@techgod143)
 
 # contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/2347043759577?text=Hi!! `David Cyril` Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
-<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
+<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
