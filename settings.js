@@ -23,7 +23,7 @@ global.wm = "Github DeeCeeXxx."
 global.wm = "Github DeeCeeXxx."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
