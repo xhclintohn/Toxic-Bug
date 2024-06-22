@@ -967,7 +967,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Tech God wa.me/2347043759577 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the david Cyril wa.me/2347043759577 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -2465,13 +2465,13 @@ break
             case 'help':
             case 'alive':
                 let xeonmenuoh = `╭══ *❍ THOMAS_SHELBY-BUG_BOT ❍*
-┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
+┃❁ *ᴏᴡɴᴇʀ:* David ○■□● Cyril
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User:* ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄  My bro
 ⚠️⚠️ ~Don't forget to star my repo~ 
 *Thomas_Shelby-Bugbot* ~Github Repo~ ⚠️⚠️
-_Any help: yt link https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot _
+_Repo link https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot _
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
