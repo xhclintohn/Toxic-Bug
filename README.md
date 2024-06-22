@@ -11,10 +11,8 @@
 
 # Heroku deploy setup
 
-
-   1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/techgod143/Thomas_Shelby-Bugbot/fork) this repository.
+1. - 🎭 `Star` 🌟 this repository.
+2.  - [FORK](https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot/fork) this repository.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
