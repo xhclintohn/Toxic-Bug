@@ -16,7 +16,7 @@ global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
 global.themeemoji = '🪀'
