@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+VENOM+2;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
