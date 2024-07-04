@@ -76,13 +76,13 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/Kai0071/A17.git
+> git clone https://github.com/DeeCeeXxx/Venom-2.git
 ```
 ```
 > cd A17
 ```
 ```
-> npm i
+> yarn install
 ```
 ```
 > npm start
