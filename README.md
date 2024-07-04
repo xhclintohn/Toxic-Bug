@@ -10,7 +10,7 @@
 
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
-1.  - [FORK](https://github.com/DeeCeeXxx/Thomas_Shelby-Bugbot/fork) this repository.
+1.  - [FORK](https://github.com/DeeCeeXxx/Venom-2/fork) this repository.
 2.   - Click [Pair-Code](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 
