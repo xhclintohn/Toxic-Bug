@@ -16,14 +16,14 @@ global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄David_Cyril\n\nContact: +2349066528353'
+global.author = 'David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
+global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
