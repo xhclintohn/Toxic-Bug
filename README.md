@@ -46,7 +46,7 @@ pkg install ffmpeg -y
 pkg install wget
 ```
 ```
-pkg install install yarn
+pkg install yarn
 ```
 ```
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
