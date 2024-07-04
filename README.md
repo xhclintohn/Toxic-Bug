@@ -46,10 +46,10 @@ pkg install ffmpeg -y
 pkg install wget
 ```
 ```
-pkg install i
+pkg install install yarn
 ```
 ```
-git clone (copy and paste your forked repo no mine to save changes) 
+git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
 cd Venom-2
