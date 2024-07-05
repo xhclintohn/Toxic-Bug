@@ -8,8 +8,9 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder (delete old creds.json) after getting pair code on replit. 
 
-<a href="https://github.com/DeeCeeXxx/Venom-2/Fork"><img src="https://img.shields.io/badge/FORK-greeen" alt="Click Here to fork Venom-2" width="150"></a>
+<a href="https://github.com/DeeCeeXxx/Venom-2/Fork"><img src="https://img.shields.io/badge/FORK-greeen" alt="Click Here to fork Venom-2" width="90"></a>
 
+<a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 
 # Termux Deployment
 ```
