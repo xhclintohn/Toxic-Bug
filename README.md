@@ -4,14 +4,11 @@
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
- </p>
-### Bot Features
-*⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto blo
-
+</p>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder (delete old creds.json) after getting pair code on replit. 
-1.  - [FORK](https://github.com/DeeCeeXxx/Venom-2/fork) this repository.
-2.   - Click [Pair-Code](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
+
+<a href="https://github.com/DeeCeeXxx/Venom-2/Fork"><img src="https://img.shields.io/badge/FORK-greeen" alt="Click Here to fork Venom-2" width="150"></a>
 
 
 # Termux Deployment
