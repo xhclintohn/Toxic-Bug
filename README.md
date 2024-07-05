@@ -12,6 +12,10 @@
 ### 1. <a href="https://github.com/DeeCeeXxx/Venom-2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 
+## Watch Tutorial videos.
+* [![NIMAYT](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@DavidCyril_TECH/]((https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo))</br>>
+ 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
 ```
