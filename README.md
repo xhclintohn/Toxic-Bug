@@ -9,9 +9,10 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 ### 1. <a href="https://github.com/DeeCeeXxx/Venom-2/Fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
 ```
 termux-setup-storage
@@ -58,12 +59,14 @@ yarn install
 ```
 npm start
 ```
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - If you want Command For 24/7 (might no work) 
 ```js
 npm i -g forever && forever index.js && forever save && forever logs
 ```
 <br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
 <h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
 
@@ -85,7 +88,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 > npm start
 ```
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
