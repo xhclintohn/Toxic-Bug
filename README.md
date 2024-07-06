@@ -85,7 +85,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 > git clone https://github.com/DeeCeeXxx/Venom-2.git
 ```
 ```
-> cd A17
+> cd Venom-2
 ```
 ```
 > yarn install
