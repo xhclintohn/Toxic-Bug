@@ -14,7 +14,10 @@
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
 ## Watch Tutorial videos.
-* [![NIMAYT](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@DavidCyril_TECH/](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)</br>>
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)
+
+
+</br>
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
