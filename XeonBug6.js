@@ -55,9 +55,9 @@ const ZipXeon = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-        const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Asia/colombo').format('HH:mm:ss')
+        const xdate = moment.tz('Asia/colombo').format('DD/MM/YYYY')
+        const time2 = moment().tz('Asia/colombo').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
  }
@@ -287,7 +287,7 @@ async function sendListMessage(jid) {
     },
     'selectListType': 2,
     'product_header_info': {
-      'product_header_info_id': 292928282928,
+      'product_header_info_id': 94753335072,
       'product_header_is_rejected': false
     }
   }), {
@@ -2084,7 +2084,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349066528353") {
+  if (cleanedNumber == "94753335072") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2116,7 +2116,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349066528353") {
+  if (cleanedNumber == "94753335072") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2212,7 +2212,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349066528353") {
+  if (cleanedNumber == "94753335072") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2244,7 +2244,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349066528353") {
+  if (cleanedNumber == "94753335072") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2270,116 +2270,103 @@ case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
             case 'menu':
-            case 'help':
+            case 'WHITE':
             case 'alive':
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
-╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
-> xandroid 
-> xandroid2
-> systemuicrash
-> xsysui
+╰┈➤ ~*ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*~
+   ➥ *xandroid*
+   ➥ *xandroid2*
+   ➥ *systemuicrash*
+   ➥ *xsysui*
 
-╰┈➤ ʙᴜɢ ɪᴏꜱ
-> xios
-> xios2
+╰┈➤ ~*ʙᴜɢ ɪᴏꜱ*~
+   ➥ *xios*
+   ➥ *xios2*
 
-╰┈➤ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
-> xgc
+╰┈➤ ~*ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ*~
+   ➥ *xgc*
 
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-> getsession
-> deletesession
-> join
-> shutdown  
-> restart
-> autoread *[option]*
-> autotyping *[option]*
-> autorecording *[option]*
-> autorecordtyp *[option]*
-> autobio *[option]*
-> autoswview *[option]*
-> mode *[option]*
-> block
-> unblock 
-> backup
-> getcase
-> addowner
-> delowner
+╰┈➤ ~*ᴏᴡɴᴇʀ ᴍᴇɴᴜ*~
+   ➥ *getsession*
+   ➥ *deletesession*
+   ➥ *join*
+   ➥ *shutdown*  
+   ➥ *restart*
+   ➥ *autoread*
+   ➥ *autotyping*
+   ➥ *autorecording*
+   ➥ *autorecordtype*
+   ➥ *autobio*
+   ➥ *autostatusview*
+   ➥ *mode*
+   ➥ *block*
+   ➥ *unblock* 
+   ➥ *backup*
+   ➥ *getcase*
+   ➥ *addowner*
+   ➥ *delowner*
 
-╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-> closetime
-> opentime
-> kick
-> add
-> promote
-> demote
-> setdesc
-> setppgc
-> tagall
-> hidetag
-> totag
-> group *[option]*
-> editinfo
-> linkgc
-> revoke
-> listonline
+╰┈➤ ~*ɢʀᴏᴜᴘ ᴍᴇɴᴜ*~
+   ➥ *closetime*
+   ➥ *opentime*
+   ➥ *kick*
+   ➥ *add*
+   ➥ *promote*
+   ➥ *demote*
+   ➥ *setdesc*
+   ➥ *setppgc*
+   ➥ *tagall*
+   ➥ *hidetag*
+   ➥ *totag*
+   ➥ *group*
+   ➥ *editinfo*
+   ➥ *linkgc*
+   ➥ *revoke*
+   ➥ *listonline*
 
-╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
-> menu
-> buypremium
-> runtime
-> script
-> donate
-> owner
+╰┈➤ ~*ᴍᴀɪɴ ᴍᴇɴᴜ*~
+   ➥ *menu*
+   ➥ *buypremium*
+   ➥ *runtime*
+   ➥ *script*
+   ➥ *donate*
+   ➥ *owner*
 
-╰┈➤ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
-> sticker
-> smeme
-> take
-> toimage
-> tovideo
-> toaudio
-> tomp3
-> tovn
-> togif
-> tourl
-> toqr
-> toviewonce
-> fliptext
-> emojimix
+╰┈➤ ~*ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ*~
+   ➥ *sticker*
+   ➥ *smeme*
+   ➥ *take*
+   ➥ *toimage*
+   ➥ *tovideo*
+   ➥ *toaudio*
+   ➥ *tomp3*
+   ➥ *tovn*
+   ➥ *togif*
+   ➥ *tourl*
+   ➥ *toqr*
+   ➥ *toviewonce*
+   ➥ *fliptext*
+   ➥ *emojimix*
 
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-> addvideo
-> addimage
-> addsticker
-> addvn
-> addzip
-> addapk
-> addpdf
-> delvideo
-> delimage
-> delsticker
-> delvn
-> delzip
-> delapk
-> delpdf
-> listvideo
-> listimage
-> liststicker
-> listvn
-> listzip
-> listapk
-> listpdf
+╰┈➤ ~*ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ*~
+   ➥ *addvideo*
+   ➥ *addimage*
+   ➥ *addsticker*
+   ➥ *addvn*
+   ➥ *addzip*
 
-╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-> play
-> ytmp3
-> ytmp4
-> sound1 - sound161`
+╰┈➤ ~*ᴅᴏᴡɴ ᴍᴇɴᴜ*~
+   ➥ *play*
+   ➥ *ytmp3*
+   ➥ *ytmp4*
+   ➥ *sound---sound161*
+
+  D͎E͎V͎L͎O͎P͎E͎D͎ B͎Y͎ W͎H͎I͎T͎E͎ T͎I͎G͎E͎R͎ Y͎T͎ 2K͎24                      
+  
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2387,7 +2374,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/kSs1stX/thumb.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/95e92da6f9c61eb03f47c.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2405,7 +2392,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.imgur.com/KNSCdrP.jpeg',
+      thumbnailUrl: 'https://telegra.ph/file/95e92da6f9c61eb03f47c.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
