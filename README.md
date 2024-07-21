@@ -18,6 +18,37 @@
 
 
 </br>
+
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [WASI MD V2](https://github.com/Itxxwasi/WASI-MD-V2) ON ANY TERMINAL
+```
+sudo apt -y update && sudo apt -y upgrade
+```
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/DeeCeeXxx/Venom-2
+```
+```
+cd Venom-2
+yarn install 
+npm start
+```
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
