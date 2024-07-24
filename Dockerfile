@@ -11,10 +11,8 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && npm install qrcode-terminal
-
-COPY . .
+RUN npm install || yarn install
 
 EXPOSE 3000
 
-CMD ["npm start","npm i -g forever && forever index.js && forever save && forever logs"]
+CMD ["npm","start" ] 
