@@ -1,7 +1,7 @@
 # Toxic-Bug
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src="https://telegra.ph/file/16c27a981a3fb56409c26.jpg"/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____TOXIC+B_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+xh_clinton;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
