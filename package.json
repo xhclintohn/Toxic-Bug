@@ -1,7 +1,7 @@
 {
-    "name": "Venom-2",
+    "name": "Venom-V2",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp Bug Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "xhclinton",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
