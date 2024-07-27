@@ -12,7 +12,7 @@ global.location = "Africa, Kenya, Nairobi"
 
 global.ownernumber = '254735342808,254799283147,254114374044'  //creator number
 global.ownername = 'xhclinton' //owner name
-global.botname = '☣️Toxic -1☣️' //name of the bot
+global.botname = '☣️Toxic-V1☣️' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
