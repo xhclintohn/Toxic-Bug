@@ -32,7 +32,7 @@ const useMobile = process.argv.includes("--mobile")
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 const question = (text) => new Promise((resolve) => rl.question(text, resolve))
-         
+
 async function startXeonBotInc() {
 //------------------------------------------------------
 let { version, isLatest } = await fetchLatestBaileysVersion()
@@ -57,7 +57,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
       msgRetryCounterCache, // Resolve waiting messages
       defaultQueryTimeoutMs: undefined, // for this issues https://github.com/WhiskeySockets/Baileys/issues/276
    })
-   
+
    store.bind(XeonBotInc.ev)
 
     // login use pairing code
@@ -70,7 +70,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +254735342808")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349066528353")))
             process.exit(0)
          }
       } else {
@@ -79,7 +79,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +254735342808")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349066528353")))
 
             phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +254735342808 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
@@ -109,17 +109,17 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             console.log(err)
         }
     })
-    
+
     //autostatus view
         XeonBotInc.ev.on('messages.upsert', async chatUpdate => {
-        	if (global.autoswview){
+                if (global.autoswview){
             mek = chatUpdate.messages[0]
             if (mek.key && mek.key.remoteJid === 'status@broadcast') {
-            	await XeonBotInc.readMessages([mek.key]) }
+                    await XeonBotInc.readMessages([mek.key]) }
             }
     })
 
-   
+
     XeonBotInc.decodeJid = (jid) => {
         if (!jid) return jid
         if (/:\d+@/gi.test(jid)) {
@@ -155,7 +155,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             (store.contacts[id] || {})
         return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
     }
-    
+
     XeonBotInc.public = true
 
     XeonBotInc.serializeM = (m) => smsg(XeonBotInc, m, store)
@@ -163,14 +163,14 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
 XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
-        	console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
-			await delay(1999)
+                console.log(chalk.magenta(` `))
+            console.log(chalk.yellow(`🌿Connected to Toxic => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+                        await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: DeeCeeXxx`))
+                console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: xhclinton`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: DeeCeeXxx `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @davidcyril002 `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @mr.xh_clusive `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
