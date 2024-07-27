@@ -1,4 +1,4 @@
-name: Continuous Workflow
+name: Continuous Workflow1
 
 on:
   schedule:
