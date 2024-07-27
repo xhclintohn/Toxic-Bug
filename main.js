@@ -74,14 +74,14 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +254735342808 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number ✅\nFor example: +254735342808 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
             console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349066528353")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +254735342808 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number ✅\nFor example: +254735342808 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -164,12 +164,12 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
                 console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`🌿Connected to Toxic => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            console.log(chalk.yellow(`☣️Toxic Connected Successfully ✅ => ` + JSON.stringify(XeonBotInc.user, null, 2)))
                         await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
                 console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: xhclinton`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: DeeCeeXxx `))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: xhclintohn `))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @mr.xh_clusive `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
